@@ -7,7 +7,7 @@ JavaFX é uma plataforma de aplicativos cliente de última geração, de código
     - [https://openjfx.io/](https://openjfx.io/)
 - Ir para Downloads
     - [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
-- Marcar o checkbox ` Include archived versions`
+- Marcar o checkbox `Include archived versions`
 - Baixar o SDK da versão do Java instalado na máquina:
     - Para ver a versão: `java --version`
 - Baixar o SDK
