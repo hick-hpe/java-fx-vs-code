@@ -42,7 +42,7 @@ JavaFX é uma plataforma de aplicativos cliente de última geração, de código
         ```bash
         chmod +x run.sh
         ```
-    - Execute o script?
+    - Execute o script:
         ```bash
         source run.sh
         ```
