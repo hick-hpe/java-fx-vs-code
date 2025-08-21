@@ -21,7 +21,7 @@ JavaFX é uma plataforma de aplicativos cliente de última geração, de código
         │   └── Main.java
         └── out/
 
-- No diretório que foi baixado o SDK:
+- No diretório no qual foi baixado o SDK:
     - Extraia o arquivo
     - Acesse o diretório até a pasta `lib/`
     - Copie todos os arquivos para o diretório `lib/` do seu projeto
