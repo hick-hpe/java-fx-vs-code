@@ -14,6 +14,13 @@ JavaFX é uma plataforma de aplicativos cliente de última geração, de código
 
 ## Configuração no VS Code
 - Criar a seguinte estrutura:
+
+        projeto/
+        ├── lib/
+        ├── src/
+        │   └── Main.java
+        └── out/
+
 - No diretório que foi baixado o SDK:
     - Extraia o arquivo
     - Acesse o diretório até a pasta `lib/`
