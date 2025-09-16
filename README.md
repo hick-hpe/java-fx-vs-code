@@ -51,7 +51,12 @@ JavaFX é uma plataforma de aplicativos cliente de última geração, de código
         ```
     - Execute o script:
         ```bash
-        source run.sh
+        source run.sh NomeDaClasse
+        ```
+        onde `NomeDaClasse` é a classe (dentro de `src/`) que deseja executar. <br/>
+        Exemplo: considerando que exista a classe `Teste` dentro de `src/`: <br/>
+        ```bash
+        source run.sh Teste
         ```
 
 ## Contruindo telas
